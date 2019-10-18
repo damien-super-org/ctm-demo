@@ -1,2 +1,2 @@
-# Test1234 wfpetlvv
+# ctm-demo
 Demo repository for Continuous Testing Meetup
