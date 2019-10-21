@@ -1,2 +1,2 @@
-# Hello Continuous Testing Meetup!
+# ctm-demo
 Demo repository for Continuous Testing Meetup
